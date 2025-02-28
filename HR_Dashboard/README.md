@@ -38,5 +38,7 @@ This project is provided for educational and demonstration purposes. Feel free t
 For any questions, suggestions, or support regarding this dashboard:
 
 Email: alex.lunin.pro@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/aleksei-lunin-5a5bb325b/
+
 GitHub: https://github.com/AlexxLunin
