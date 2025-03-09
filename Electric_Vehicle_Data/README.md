@@ -3,6 +3,8 @@
 ## Overview
 This project analyzes key performance indicators (KPIs) for the electric vehicle (EV) market while offering dynamic, interactive visualizations using Tableau. By examining a detailed dataset covering both Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs), the project delivers insights into market size, technological advancements, and efficiency improvements through engaging dashboards.
 
+![Image](https://github.com/user-attachments/assets/ee8f550d-1c2f-4a2d-9345-8e7f19988b95)
+
 ## Features
 
 ### KPI Analysis
