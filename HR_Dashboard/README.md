@@ -37,8 +37,8 @@ This project is provided for educational and demonstration purposes. Feel free t
 9. Contact / Support
 For any questions, suggestions, or support regarding this dashboard:
 
-Email: alex.lunin.pro@gmail.com
+Email: a.lunin.work@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/aleksei-lunin-5a5bb325b/
+LinkedIn: https://www.linkedin.com/in/alex-lunin-4b73bb369/
 
 GitHub: https://github.com/AlexxLunin
